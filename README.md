@@ -3,12 +3,12 @@
 ## Week 4 Challenge
 
 ### Task
-- **Write a playbook that installs Docker onto the local machine.
+- **Write a playbook that installs Docker onto the local machine.**
 
-##Stretch Goals
+## Stretch Goals
 
-- **Create a Docker role.
-- **Add a role that will deploy an Nginx container.
+- **Create a Docker role.**
+- **Add a role that will deploy an Nginx container.**
 
 
 ## Submission
